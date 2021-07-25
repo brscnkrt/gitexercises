@@ -1,2 +1,2 @@
 # gitexercises
-A repository for experiments on git
+A repository for experiments on git fixed
